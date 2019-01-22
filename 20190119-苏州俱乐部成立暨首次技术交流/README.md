@@ -7,7 +7,7 @@
 #### 【课件类】
 - K01-**陈希章**-打通 SaaS, PaaS 任督二脉的生产力云平台 V6.0
 - K02-**苏震巍**-使用 .NET Core + DevOps 开发微信跨平台应用 2.0
-- K03-**蒋金楠**-Inside ASP.NET Core Framework V4.0
+- K03-**蒋金楠**-Inside ASP.NET Core 框架揭秘 V4.0
 - K04-**胡浩**-从零机器学习 V2.0
 
 #### 【专题类】
